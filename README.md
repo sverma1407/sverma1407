@@ -14,19 +14,38 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Skills
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css"/>
 </p>
 
-### ⚙️ Tools & Frameworks
+### ⚙️ Frameworks
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,pytorch,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=flask,django,spring"/>
 </p>
 
----
+### 📚 Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Scikit-learn  
+- Seaborn  
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=linux,vscode,git,github"/>
+</p>
 
 ## 📂 Featured Projects
 
@@ -34,18 +53,6 @@
 - Visualizes image segmentation results
 - Works with SAM (Segment Anything Model), CLIP, and Gateway
 - Built using Python 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sverma1407&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sverma1407&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
