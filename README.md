@@ -28,14 +28,15 @@
 
 ### 📚 Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50"/>
 </p>
 
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Scikit-learn  
-- Seaborn  
+<p>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50"/>
+</p>
 
 ### 🗄️ Databases
 <p>
