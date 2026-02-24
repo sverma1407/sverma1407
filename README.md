@@ -30,10 +30,10 @@
 
 ## 📂 Featured Projects
 
-🔹 Image Segmentation API using FastAPI and SAM  
-🔹 Wine Quality Prediction using Machine Learning  
-🔹 Event Management Website  
-🔹 Python Scripts for ML Visualization  
+🔹 Python Script for Botlab Model
+- Visualizes image segmentation results
+- Works with SAM (Segment Anything Model), CLIP, and Gateway
+- Built using Python 
 
 ---
 
