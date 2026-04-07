@@ -1,9 +1,15 @@
 <h1 align="center">👋 Hi, I'm Shubham Verma</h1>
 
-<h3 align="center">🚀 ML Engineer in Progress | FastAPI Developer | Problem Solver</h3>
+<h3 align="center">
+🚀 ML Engineer in Progress | FastAPI Developer | Problem Solver
+</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sverma1407&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Machine+Learning+Enthusiast;FastAPI+Developer;Backend+Engineer;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sverma1407&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -13,25 +19,25 @@
 🎓 B.Tech CSE (Data Science) Student  
 🤖 Passionate about **Machine Learning, AI & Backend Systems**  
 💡 Love building **real-world intelligent systems**  
-⚡ Strong focus on **problem solving & scalable solutions**
+⚡ Focused on **scalable & impactful solutions**  
 
 ---
 
 ## ⚡ Tech Stack
 
 ### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
 </p>
 
 ### ⚙️ Frameworks & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,spring"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,spring" />
 </p>
 
-### 📚 ML & Data Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
+### 📚 ML & Data
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
@@ -39,13 +45,13 @@
 </p>
 
 ### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 </p>
 
 ### 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,git,vscode" />
 </p>
 
 ---
@@ -53,22 +59,16 @@
 ## 🚀 Featured Projects
 
 ### 🤖 NLP Chatbot (BKBIET Assistant)
-- Intelligent chatbot for student queries (admissions, fees, campus info)
-- Built using **NLP + Machine Learning**
-- Integrated with real-time backend logic
+✔ Intelligent chatbot for student queries  
+✔ Built using **NLP + Machine Learning**  
+✔ Real-time backend integration  
 
 ---
 
 ### 🧠 Image Segmentation System
-- Based on **Segment Anything Model (SAM)**
-- Integrated with **CLIP + Gateway**
-- Visualizes segmentation outputs effectively
-
----
-
-### ⚡ FastAPI Backend Systems
-- Built scalable APIs using FastAPI
-- Focus on performance & clean architecture
+✔ Based on **Segment Anything Model (SAM)**  
+✔ Integrated with **CLIP + Gateway**  
+✔ Visual output generation  
 
 ---
 
@@ -83,27 +83,31 @@
 
 ## 🎯 Current Focus
 
-🚀 Deep Learning & Advanced AI  
+🚀 Deep Learning  
 ⚙️ Backend Engineering (FastAPI)  
 🧠 System Design  
-🌍 Building impactful real-world projects  
+🌍 Real-world ML Projects  
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Contact Me
+
+📧 Email: **sv9365617@gmail.com**
 
 <p align="center">
-<a href="https://github.com/sverma1407">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+<a href="mailto:sv9365617@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
 ---
 
-## 💡 Quote I Believe In
+## 💡 Quote
 
-> "Build projects that solve real problems — that's where real learning happens."
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ **From Shubham Verma — Always evolving, always building 🚀**
+⭐ **From Shubham Verma — Building the Future with Code 🚀**
